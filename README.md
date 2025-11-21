@@ -1,11 +1,11 @@
 # Identify-Customer-Segments
 Unsupervised Learning – Customer Clustering with PCA & K-Means
 
-📌 Overview
+## 📌 Overview
 
 This project uses unsupervised learning to discover meaningful customer groups from a demographic and lifestyle dataset. Since no target labels are provided, techniques like PCA and K-Means are used to identify hidden structures and segment the customer base.
 
-🎯 Goals
+## 🎯 Goals
 
 Preprocess mixed-type customer data
 
@@ -17,7 +17,7 @@ Reconstruct and interpret cluster centroids
 
 Compare customer groups with the general population
 
-🛠️ Steps
+## 🛠️ Steps
 
 Data Cleaning: Handle missing values, scale features, encode categoricals
 
@@ -29,7 +29,7 @@ Centroid Reconstruction: Transform cluster centers back to original feature spac
 
 Analysis: Describe segments and compare them with the general dataset
 
-📊 Results
+## 📊 Results
 
 Identified meaningful customer segments
 
